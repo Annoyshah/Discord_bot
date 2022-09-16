@@ -4,4 +4,4 @@
 
 # Snapshots
 
- <img src="Images/Screenshot.jpeg">
+ <img src="https://github.com/Annoyshah/Discord_bot/blob/main/Images/Snapshot.jpeg">
