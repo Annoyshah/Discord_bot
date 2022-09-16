@@ -4,4 +4,4 @@
 
 # Snapshots
 
- <img src="images/Screenshot.jpeg">
+ <img src="Images/Screenshot.jpeg">
